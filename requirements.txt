@@ -1,0 +1,6 @@
+pip install gymnasium[box2d]
+pip install pandas
+pip install keras
+pip install tensorflow
+pip install scipy
+pip install matplotlib
